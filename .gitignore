@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
